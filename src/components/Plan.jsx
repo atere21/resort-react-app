@@ -20,8 +20,8 @@ const Plan =() =>{
             <p className='pb-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, neque eveniet corporis quaerat quasi
                  quia sit necessitatibus et, id ad expedita minima odit illum! Vero maxime iste natus blanditiis quo.</p>
                  <div>
-         <button className='border-black'>Learn More</button>
-         <button>Book Trip</button>
+         <button className='border-black '>Learn More</button>
+         <button className='bg-black text-white border-black hover:shadow-xl'>Book Trip</button>
         </div>
         </div>
     </div>
